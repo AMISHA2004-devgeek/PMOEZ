@@ -85,6 +85,19 @@ export default function RootLayout({ children }) {
               Connect
             </span>
           </li>
+                 <li className="relative group">
+            <a
+              href="https://www.linkedin.com/in/nihar-shah-104833299/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-blue-400 transition-colors font-medium"
+            >
+              Nihar Shah
+            </a>
+            <span className="absolute left-1/2 -translate-x-1/2 -top-8 opacity-0 group-hover:opacity-100 group-hover:-translate-y-2 transition-all duration-300 bg-blue-600 text-white text-xs font-semibold px-2 py-1 rounded-md shadow-lg whitespace-nowrap">
+              Connect
+            </span>
+          </li>
         </ul>
       </div>
     </div>
